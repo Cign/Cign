@@ -15,8 +15,8 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║  🎯 Transforming Ideas into Scalable Solutions                           ║
-║  💡 From Data Insights to Production Infrastructure                      ║
+║  🎯 I can actually build solutions. The tech stack is just a way to get there.                                                             ║
+║  💡 From Data Insights to Production Infrastructure. We go from your actual needs to achieve useful, mesurable goals.                      ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
