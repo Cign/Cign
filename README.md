@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Your%20Name&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yaya%20SANGARE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Data+Scientist+%F0%9F%93%8A;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
 
@@ -386,7 +386,7 @@ const developer = {
 
 **Full-Stack Development**
 
-5+ years building scalable web applications
+6+ years building scalable web applications
 
 </td>
 <td align="center" width="33%">
@@ -394,7 +394,7 @@ const developer = {
 
 **DevOps Engineering**
 
-Expert in cloud infrastructure & CI/CD
+I can deploy what you want where you want.
 
 </td>
 <td align="center" width="33%">
@@ -402,7 +402,7 @@ Expert in cloud infrastructure & CI/CD
 
 **Data Science**
 
-ML models from research to production
+ML models from modelisation to production
 
 </td>
 </tr>
@@ -417,13 +417,12 @@ ML models from research to production
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-📝 [Building Scalable Microservices with Kubernetes](https://yourblog.com/k8s-microservices)  
-📝 [From Model Training to Production: A Complete MLOps Guide](https://yourblog.com/mlops-guide)  
-📝 [Optimizing React Performance: Advanced Techniques](https://yourblog.com/react-optimization)  
-📝 [Infrastructure as Code: Terraform Best Practices](https://yourblog.com/terraform-practices)
+📝 [Stop Guessing. How Businesses Can Use Data](https://www.ishowyou.tech/en/blog/stop-guessing-how-businesses-can-use-data-without-a-100k-budget)  
+📝 [The Complete Guide to Open Source AI Models in 2025](https://www.ishowyou.tech/en/blog/the-complete-guide-to-open-source-ai-models-in-2025)  
+📝 [AI Shock: China Crushes the West in the Open Source](https://www.ishowyou.tech/en/blog/ai-shock-china-crushes-the-west-in-the-open-source-ai-race)  
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts...](https://yourblog.com)
+➡️ [More blog posts...](https://www.ishowyou.tech/en/blog)
 
 </div>
 
@@ -433,11 +432,11 @@ ML models from research to production
 
 ## 🎯 2025 Goals
 
-- 🚀 Contribute to 10+ open-source projects
-- 📚 Publish 24 technical blog posts
-- 🎓 Master Rust and WebAssembly
-- 🏆 Achieve AWS Solutions Architect Professional certification
-- 🤝 Mentor 50+ developers through code reviews
+- 🚀 Contribute to 2 open-source projects
+- 📚 Publish 24+ technical blog posts
+- 🎓 Master Langchain and Context engineering
+- 🏆 Achieve useful community building
+- 🤝 Mentor 3+ developers through code reviews and talks
 
 </div>
 
