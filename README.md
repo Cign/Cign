@@ -6,10 +6,10 @@
 
 <br/>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaya-sangare-bb0528140/)
+[![Blog](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://ishowyou.tech/en/blog)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://yabsaka.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sayotagt@gmail.com)
 
 <br/>
 
@@ -28,22 +28,22 @@
 
 ```typescript
 const developer = {
-    name: "Your Name",
+    name: "Yaya SANGARE",
     role: "Full-Stack Developer | DevOps Engineer | Data Scientist",
-    location: "📍 Your Location",
-    currentFocus: "Building AI-powered applications with cloud-native architecture",
+    location: "📍 Ottawa",
+    currentFocus: "Building AI-powered SOLUTIONS with a whole lot of vibes",
     
     technologies: {
         frontend: ["React", "Vue.js", "Next.js", "TypeScript", "TailwindCSS"],
-        backend: ["Node.js", "Python", "FastAPI", "Django", "GraphQL"],
-        devops: ["AWS", "Kubernetes", "Docker", "Terraform", "ArgoCD"],
-        dataScience: ["TensorFlow", "PyTorch", "Pandas", "Scikit-learn"],
-        databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"]
+        backend: ["Node.js", "Python", "FastAPI", "Django", "Spring Boot"],
+        devops: ["AWS", "Sonar", "Docker", "CircleCI", "AppPlatform"],
+        dataScience: ["TensorFlow", "PyTorch", "Pandas", "Scikit-learn", "Transformers"],
+        databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "DuckDB", "MySQL"]
     },
     
-    architecture: ["Microservices", "Event-Driven", "Serverless", "MLOps"],
-    currentlyLearning: ["Rust", "WebAssembly", "Advanced ML Ops"],
-    funFact: "I debug with print statements and I'm not ashamed 😎"
+    architecture: ["Microservices", "Event-Driven", "Serverless", "MLOps", "Monolitic"],
+    currentlyLearning: ["Rust", "RAGs", "Advanced ML Ops", "Langchain"],
+    funFact: "I still debug with print statements and I'm not ashamed 😎. Always trust the basics !"
 };
 ```
 
