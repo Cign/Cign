@@ -33,7 +33,7 @@ Profile:
 
 - 🤖 **Agentic & Local AI:** Architecting private, high-speed multi-agent systems using **Apple Silicon MLX**, **LangGraph** loop architectures (*Evaluator/Improver*), and conversational AI with **Rasa NLU**.
 - 🧠 **Graph ML & Predictive Analytics:** Designing state-of-the-art predictive pipelines using **Relational Graph Convolutional Networks (RGCN)**, **Mixture of Experts (MoE)**, and **SHAP** interpretability.
-- 🌐 **Scalable Full-Stack Engineering:** Engineering production-grade platforms with **Next.js 14/15 (App Router)**, **TypeScript**, **Strapi CMS**, **Node.js**, and **Java Spring Boot**.
+- 🌐 **Scalable Full-Stack Engineering:** Engineering production-grade platforms with **Next.js 14/15 (App Router)**, **TypeScript**, **CMS**, **Node.js**, and **Java Spring Boot**.
 - 📱 **Fintech & Mobile Systems:** Crafting contactless NFC/QR electronic wallet solutions and mobile booking engines with **React Native & Expo**.
 
 ---
@@ -86,7 +86,7 @@ Profile:
 > **Multi-platform tourism suite, accommodation booking, and integrated inter-city transport engine.**
 
 - **Frontend:** Next.js 14 App Router, Jotai state, and multi-step booking pipelines.
-- **Backend CMS:** Strapi v4 headless architecture with custom RBAC & unified search.
+- **Backend CMS:** NodeJs headless architecture with custom RBAC & unified search.
 - **Conversational AI:** Dedicated **Rasa NLU** engine with custom Python action servers.
 - **Mobile Client:** Cross-platform app powered by React Native & Expo.
 
