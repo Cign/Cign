@@ -24,7 +24,7 @@
 
 - 🧠 **AI & Autonomous Agents**: Designing privacy-first local LLM pipelines using **Apple Silicon MLX**, **LangGraph loop architectures** (*Evaluator/Improver*), and conversational AI with **Rasa NLU**.
 - 📊 **Data Science & Graph Machine Learning**: Formulating predictive models using **Relational Graph Convolutional Networks (RGCN)**, **Mixture of Experts (MoE)**, and **SHAP interpretability**.
-- 🌐 **Full-Stack & Headless Architectures**: Building high-throughput web applications with **Next.js 14/15 (App Router)**, **TypeScript**, **Strapi Headless CMS**, **Java Spring Boot**, and **Node.js**.
+- 🌐 **Full-Stack & Headless Architectures**: Building high-throughput web applications with **Next.js 14/15 (App Router)**, **TypeScript**, **Node Headless CMS**, **Java Spring Boot**, and **Node.js**.
 - 📱 **Cross-Platform Mobile**: Engineering offline-first and contactless fintech apps (NFC/QR) with **React Native & Expo**.
 - ⚡ **Track Record**: 50+ delivered projects, academic lecturing in software engineering tools, and production performance optimizations (>60% latency reductions).
 
@@ -92,13 +92,13 @@
       <p>Multi-platform tourism SaaS, accommodation booking, and integrated inter-city transport logistics engine.</p>
       <ul>
         <li><b>Frontend:</b> Next.js 14 App Router, Jotai state, and responsive multi-step booking pipelines.</li>
-        <li><b>Backend CMS:</b> Strapi v4 headless architecture with custom RBAC & unified search.</li>
+        <li><b>Backend CMS:</b> Nodejs headless architecture with custom RBAC & unified search.</li>
         <li><b>Conversational AI:</b> Dedicated <b>Rasa NLU</b> engine with custom Python action servers.</li>
         <li><b>Mobile:</b> Cross-platform client with React Native & Expo.</li>
       </ul>
       <div>
         <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Strapi_v4-2F2E8B?style=flat-square&logo=strapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NodeJs-2F2E8B?style=flat-square&logo=nodejs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Rasa_NLU-5A17EE?style=flat-square&logo=rasa&logoColor=white"/>
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
       </div>
