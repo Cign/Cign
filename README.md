@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230f172a&custom_color_2=%234f46e5&height=220&section=header&text=Yaya%20Sangaré%20(Cign)&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20%7C%20AI%20%26%20Multi-Agent%20Systems%20Architect&descFontSize=18&descAlignY=62&descAlign=50" width="100%"/>
+<!-- Header Banner (Clean & High-Availability Encoded) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Yaya%20Sangare%20(Cign)&fontSize=42&fontColor=ffffff" width="100%"/>
 
 <!-- Real-time Typing Subtitle -->
 <a href="https://yabsaka.vercel.app/">
@@ -11,10 +11,10 @@
 <br/>
 
 <!-- Status Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-yabsaka.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://yabsaka.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaya_Sangaré-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaya-sangare-bb0528140/)
-[![Location](https://img.shields.io/badge/📍_Location-Gatineau_%2F_Ottawa_🇨🇦-1E293B?style=for-the-badge)](https://yabsaka.vercel.app/)
-[![Email](https://img.shields.io/badge/✉️_Email-sayotagt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayotagt@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-yabsaka.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://yabsaka.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaya_Sangare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaya-sangare-bb0528140/)
+[![Location](https://img.shields.io/badge/Location-Gatineau_%2F_Ottawa_Canada-1E293B?style=for-the-badge)](https://yabsaka.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-sayotagt%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayotagt@gmail.com)
 
 </div>
 
