@@ -1,486 +1,202 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yaya%20SANGARE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+# Hi there, I'm Yaya Sangaré (Cign) 👋
+### **Senior Full-Stack & AI Systems Engineer | Data Science & Multi-Agent Architect**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Data+Scientist+%F0%9F%93%8A;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+📍 *Gatineau, QC / Ottawa, ON, Canada* 🇨🇦 • 🎓 *DESS Data Science & AI* • 👨‍🏫 *Teaching Assistant in SE Tools @ UQO*
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-yabsaka.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yabsaka.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaya_Sangaré-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaya-sangare-bb0528140/)
+[![GitHub followers](https://img.shields.io/github/followers/cign?label=Followers&style=for-the-badge&logo=github&color=0969da)](https://github.com/cign)
+[![Profile Views](https://komarev.com/ghpvc/?username=cign&color=007ec6&style=for-the-badge)](https://github.com/cign)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaya-sangare-bb0528140/)
-[![Blog](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://ishowyou.tech/en/blog)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://yabsaka.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sayotagt@gmail.com)
+<p align="center">
+  <b>8+ years of engineering experience architecting scalable full-stack web/mobile platforms, local autonomous AI agents, and enterprise data science pipelines.</b>
+</p>
 
-<br/>
+[🚀 Featured Projects](#-featured-projects) • [💳 Fintech & Mobile](#-fintech--mobile-apps) • [🛠️ Tech Arsenal](#️-technical-arsenal) • [📊 GitHub Analytics](#-github-analytics) • [📫 Connect](#-get-in-touch)
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  🎯 I can actually build solutions. The tech stack is just a way to get there.                                                     ║
-║  💡 From Data Insights to Production Infrastructure. We go from your actual needs to achieve mesurable goals.                      ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+---
 
 </div>
 
-<br/>
+## 👨‍💻 About & Core Highlights
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> About Me
+- 🧠 **AI & Autonomous Agents**: Designing privacy-first local LLM pipelines using **Apple Silicon MLX**, **LangGraph loop architectures** (*Evaluator/Improver*), and conversational AI with **Rasa NLU**.
+- 📊 **Data Science & Graph Machine Learning**: Formulating predictive models using **Relational Graph Convolutional Networks (RGCN)**, **Mixture of Experts (MoE)**, and **SHAP interpretability**.
+- 🌐 **Full-Stack & Headless Architectures**: Building high-throughput web applications with **Next.js 14/15 (App Router)**, **TypeScript**, **Strapi Headless CMS**, **Java Spring Boot**, and **Node.js**.
+- 📱 **Cross-Platform Mobile**: Engineering offline-first and contactless fintech apps (NFC/QR) with **React Native & Expo**.
+- ⚡ **Track Record**: 50+ delivered projects, academic lecturing in software engineering tools, and production performance optimizations (>60% latency reductions).
 
-```typescript
-const developer = {
-    name: "Yaya SANGARE",
-    role: "Full-Stack Developer | DevOps Engineer | Data Scientist",
-    location: "📍 Ottawa",
-    currentFocus: "Building AI-powered SOLUTIONS with a whole lot of vibes",
-    
-    technologies: {
-        frontend: ["React", "Vue.js", "Next.js", "TypeScript", "TailwindCSS"],
-        backend: ["Node.js", "Python", "FastAPI", "Django", "Spring Boot"],
-        devops: ["AWS", "Sonar", "Docker", "CircleCI", "AppPlatform"],
-        dataScience: ["TensorFlow", "PyTorch", "Pandas", "Scikit-learn", "Transformers"],
-        databases: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "DuckDB", "MySQL"]
-    },
-    
-    architecture: ["Microservices", "Event-Driven", "Serverless", "MLOps", "Monolitic"],
-    currentlyLearning: ["Rust", "RAGs", "Advanced ML Ops", "Langchain"],
-    funFact: "I still debug with print statements and I'm not ashamed 😎. Always trust the basics !"
-};
-```
+---
 
-<br/>
+## 🚀 Featured Projects
 
-<div align="center">
+### 🤖 AI, Multi-Agent Systems & Data Science
 
-## 🛠️ Technology Arsenal
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🎨 Frontend Magic
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### ⚡ Backend Power
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### 🔧 DevOps Excellence
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-<a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-</div>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### 📊 Data & ML
-<div align="center">  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
-<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="50" /></a>  
-<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="50" /></a>  
-<a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" /></a>  
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### 💾 Databases
-<div align="center">  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="50" /></a>  
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### 🧰 Tools & More
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vscode-original-wordmark.svg" alt="VS Code" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚽ <a href="https://github.com/cign/yfoot">YFoot — SOTA Sports AI & Graph Analytics</a></h3>
+      <p>Multi-dimensional predictive modeling engine combining Graph Neural Networks (RGCN), Mixture of Experts (MoE), and real-time Feature Stores.</p>
+      <ul>
+        <li><b>Graph Neural Network:</b> Models complex team topologies and player interactions via Relational GCNs.</li>
+        <li><b>Local LLM Research Node:</b> Ultra-fast research queries powered by <b>MLX-LM</b> on Apple Silicon.</li>
+        <li><b>Telemetry:</b> Scientific exploration dashboards built with Streamlit.</li>
+      </ul>
+      <div>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apple_MLX-000000?style=flat-square&logo=apple&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/cign/agento">Agento — Local AI Agent & ViralGeoDetector</a></h3>
+      <p>Autonomous multi-agent platform for real-time geographic viral trend detection without external API rate limits.</p>
+      <ul>
+        <li><b>Loop Engineering:</b> LangGraph state graph with active <i>Evaluator</i> and <i>Improver</i> feedback loops.</li>
+        <li><b>Multi-Source Reach:</b> Cross-platform listening (X, Reddit, YouTube, RSS) + <b>Crawl4AI</b> async scraping.</li>
+        <li><b>Viral Scoring:</b> Temporal decay acceleration formula with platform weighting.</li>
+      </ul>
+      <div>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Local_LLM-Gemma_/_Llama-4285F4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Crawl4AI-0284C7?style=flat-square"/>
+      </div>
+    </td>
+  </tr>
 </table>
 
-</div>
+---
 
-<br/>
+### 💳 Fintech, Mobile Apps & Enterprise SaaS
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://yabsaka.vercel.app/">KORIPASS — NFC & QR Smart Electronic Wallet</a></h3>
+      <p>Complete mobile contactless fintech ecosystem allowing instant peer-to-peer transfers, merchant payments, and multi-operator mobile money recharges.</p>
+      <ul>
+        <li><b>Contactless & QR:</b> Physical card pairing, NFC tap-to-pay, and dynamic QR Code generation.</li>
+        <li><b>Mobile Money Gateway:</b> Seamless integration with Orange Money, Free Money, and E-Money.</li>
+        <li><b>Security:</b> End-to-end tokenized transactions and instant push notification telemetry.</li>
+      </ul>
+      <div>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Fintech_NFC-0A85EA?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 <a href="https://github.com/cign/okooltrip">Okool Ecosystem — Travel & Mobility Suite</a></h3>
+      <p>Multi-platform tourism SaaS, accommodation booking, and integrated inter-city transport logistics engine.</p>
+      <ul>
+        <li><b>Frontend:</b> Next.js 14 App Router, Jotai state, and responsive multi-step booking pipelines.</li>
+        <li><b>Backend CMS:</b> Strapi v4 headless architecture with custom RBAC & unified search.</li>
+        <li><b>Conversational AI:</b> Dedicated <b>Rasa NLU</b> engine with custom Python action servers.</li>
+        <li><b>Mobile:</b> Cross-platform client with React Native & Expo.</li>
+      </ul>
+      <div>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Strapi_v4-2F2E8B?style=flat-square&logo=strapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rasa_NLU-5A17EE?style=flat-square&logo=rasa&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://yabsaka.vercel.app/">FegnSEO & Web Performance Suite</a></h3>
+      <p>Enterprise SEO, dynamic metadata generation, and OpenGraph automation engine tailored for maximum search discoverability.</p>
+      <ul>
+        <li>Dynamic OpenGraph image generation via Next.js Edge runtime.</li>
+        <li>Schema.org JSON-LD structured data generators.</li>
+        <li>Sub-second Core Web Vitals optimization.</li>
+      </ul>
+      <div>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SEO_Engine-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/cign/ishowtech">IshowTech — Headless Content & Commerce</a></h3>
+      <p>Scalable digital publishing and media distribution engine with custom deep populate middlewares and analytics charts.</p>
+      <ul>
+        <li>Relational content querying with custom population pipelines.</li>
+        <li>Interactive RankChart data module and podcast streaming capabilities.</li>
+      </ul>
+      <div>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
+
+### 🤖 AI, Machine Learning & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Apple MLX](https://img.shields.io/badge/Apple_MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Rasa](https://img.shields.io/badge/Rasa_NLU-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🌐 Frontend & Mobile Engineering
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_14/15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend, Cloud & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java_/_Spring_Boot-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi_CMS-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cign&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cign&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Cign's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cign&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cign&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+</div>
+
+---
+
+## 📫 Get in Touch
 
 <div align="center">
 
-## 🏆 Featured Projects
-
-</div>
-
-<!-- FULLSTACK PROJECTS -->
-<details open>
-<summary><h3>🌐 Full-Stack Development</h3></summary>
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/yourusername/project1">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</a>
-<a href="https://github.com/yourusername/project2">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</a>
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🚀 E-Commerce Platform</h3>
-<div align="center">
-<a href="https://github.com/yourusername/ecommerce-platform" target="_blank">
-<img src="https://img.shields.io/badge/Code-View_Repository-blue?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://demo-ecommerce.com" target="_blank">
-<img src="https://img.shields.io/badge/Demo-Live_Site-green?style=for-the-badge&logo=vercel"/>
-</a>
-</div>
-
-<br/>
-
-**Microservices-based e-commerce solution with real-time inventory management**
-
-- 🔐 JWT authentication with refresh tokens
-- 💳 Stripe payment integration
-- 📦 Real-time order tracking with WebSockets
-- 🎨 Responsive design with Next.js & TailwindCSS
-- 📊 Admin dashboard with analytics
-
-**Tech:** `Next.js` `Node.js` `PostgreSQL` `Redis` `Docker` `AWS`
-
-</td>
-<td width="50%">
-
-<h3 align="center">💬 Real-Time Collaboration Tool</h3>
-<div align="center">
-<a href="https://github.com/yourusername/collab-tool" target="_blank">
-<img src="https://img.shields.io/badge/Code-View_Repository-blue?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://demo-collab.com" target="_blank">
-<img src="https://img.shields.io/badge/Demo-Live_Site-green?style=for-the-badge&logo=vercel"/>
-</a>
-</div>
-
-<br/>
-
-**Slack-inspired team collaboration platform with video conferencing**
-
-- 🎥 WebRTC video calls with screen sharing
-- ⚡ Real-time messaging with Socket.io
-- 📁 File sharing with S3 integration
-- 🔍 Full-text search with Elasticsearch
-- 🎨 Dark/Light theme with custom UI components
-
-**Tech:** `React` `Express` `MongoDB` `Redis` `WebRTC` `Elasticsearch`
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<!-- DEVOPS PROJECTS -->
-<details>
-<summary><h3>⚙️ DevOps & Infrastructure</h3></summary>
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/yourusername/k8s-infrastructure">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=k8s-infrastructure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</a>
-<a href="https://github.com/yourusername/cicd-templates">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cicd-templates&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</a>
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">☸️ Kubernetes Production Setup</h3>
-<div align="center">
-<a href="https://github.com/yourusername/k8s-infrastructure" target="_blank">
-<img src="https://img.shields.io/badge/Code-View_Repository-blue?style=for-the-badge&logo=github"/>
-</a>
-</div>
-
-<br/>
-
-**Complete Kubernetes cluster setup with GitOps workflow**
-
-- 🏗️ Multi-environment cluster provisioning
-- 🔄 ArgoCD for GitOps deployments
-- 📊 Prometheus + Grafana monitoring
-- 🔒 Vault integration for secrets management
-- 🚨 Automated alerting with AlertManager
-- 🌐 Ingress with cert-manager for SSL
-
-**Tech:** `Kubernetes` `Terraform` `ArgoCD` `Prometheus` `Grafana` `Vault`
-
-</td>
-<td width="50%">
-
-<h3 align="center">🔄 CI/CD Pipeline Framework</h3>
-<div align="center">
-<a href="https://github.com/yourusername/cicd-templates" target="_blank">
-<img src="https://img.shields.io/badge/Code-View_Repository-blue?style=for-the-badge&logo=github"/>
-</a>
-</div>
-
-<br/>
-
-**Reusable CI/CD templates for multi-cloud deployments**
-
-- ⚡ GitHub Actions workflows
-- 🐳 Multi-stage Docker builds
-- 🧪 Automated testing & security scans
-- 📦 Container registry management
-- 🚀 Blue-green & canary deployments
-- 📝 Automated documentation generation
-
-**Tech:** `GitHub Actions` `Docker` `SonarQube` `Trivy` `AWS` `GCP`
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<!-- DATA SCIENCE PROJECTS -->
-<details>
-<summary><h3>📈 Data Science & Machine Learning</h3></summary>
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/yourusername/ml-pipeline">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ml-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</a>
-<a href="https://github.com/yourusername/nlp-sentiment">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nlp-sentiment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</a>
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🤖 MLOps Production Pipeline</h3>
-<div align="center">
-<a href="https://github.com/yourusername/ml-pipeline" target="_blank">
-<img src="https://img.shields.io/badge/Code-View_Repository-blue?style=for-the-badge&logo=github"/>
-</a>
-</div>
-
-<br/>
-
-**End-to-end ML pipeline from training to production deployment**
-
-- 🔄 Automated model training & versioning
-- 📊 MLflow for experiment tracking
-- 🚀 FastAPI model serving
-- 📈 Real-time monitoring & drift detection
-- 🔧 A/B testing framework
-- 📦 Kubernetes deployment with autoscaling
-
-**Tech:** `Python` `TensorFlow` `MLflow` `FastAPI` `Kubernetes` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-<h3 align="center">💭 NLP Sentiment Analysis API</h3>
-<div align="center">
-<a href="https://github.com/yourusername/nlp-sentiment" target="_blank">
-<img src="https://img.shields.io/badge/Code-View_Repository-blue?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://sentiment-api-demo.com" target="_blank">
-<img src="https://img.shields.io/badge/Demo-Live_API-green?style=for-the-badge&logo=fastapi"/>
-</a>
-</div>
-
-<br/>
-
-**Production-ready sentiment analysis API with multiple language support**
-
-- 🌍 Multi-language support (15+ languages)
-- ⚡ Sub-100ms response time
-- 📊 Fine-tuned BERT models
-- 🔄 Redis caching layer
-- 📈 Detailed confidence scores
-- 📝 Comprehensive API documentation
-
-**Tech:** `PyTorch` `Transformers` `FastAPI` `Redis` `Docker` `PostgreSQL`
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br/>
-
-<div align="center">
-
-## 💼 Professional Experience Highlights
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/code.png"/>
-
-**Full-Stack Development**
-
-6+ years building scalable web applications
-
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/server.png"/>
-
-**DevOps Engineering**
-
-I can deploy what you want where you want.
-
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
-
-**Data Science**
-
-ML models from modelisation to production
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-📝 [Stop Guessing. How Businesses Can Use Data](https://www.ishowyou.tech/en/blog/stop-guessing-how-businesses-can-use-data-without-a-100k-budget)  
-📝 [The Complete Guide to Open Source AI Models in 2025](https://www.ishowyou.tech/en/blog/the-complete-guide-to-open-source-ai-models-in-2025)  
-📝 [AI Shock: China Crushes the West in the Open Source](https://www.ishowyou.tech/en/blog/ai-shock-china-crushes-the-west-in-the-open-source-ai-race)  
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://www.ishowyou.tech/en/blog)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🎯 2025 Goals
-
-- 🚀 Contribute to 2 open-source projects
-- 📚 Publish 24+ technical blog posts
-- 🎓 Master Langchain and Context engineering
-- 🏆 Achieve useful community building
-- 🤝 Mentor 3+ developers through code reviews and talks
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📫 Let's Build Something Amazing Together
-
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/yourhandle">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://yourwebsite.com">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
-</a>
-<a href="https://medium.com/@yourhandle">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   "Code is like humor. When you have to explain it, it's bad."      ║
-║                          - Cory House                                ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+[![Website](https://img.shields.io/badge/Portfolio-yabsaka.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yabsaka.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yaya_Sangaré-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaya-sangare-bb0528140/)
+[![Email](https://img.shields.io/badge/Email-sayotagt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayotagt@gmail.com)
+
+*Open for technical consulting, AI agent architecture, and high-impact full-stack collaborations in Canada & Worldwide.*
 
 </div>
